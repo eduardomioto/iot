@@ -5,10 +5,31 @@ EMQ X connects any IoT device via all major IoT communication protocols, includi
 
 ```
 # docker rm emqx
-docker run -d --name emqx -p 1883:1883 -p 8081:8081 -p 8083:8083 -p 8084:8084 -p 8883:8883 -p 18083:18083  -p 4369:4369  -e EMQX_LOADED_PLUGINS="emqx_recon,emqx_retainer,emqx_management,emqx_dashboard" emqx/emqx:4.3.2
+docker run -d --name emqx \
+           -p 1883:1883   \
+           -p 8081:8081   \
+           -p 8083:8083   \
+           -p 8084:8084   \
+           -p 8883:8883   \
+           -p 18083:18083 \ 
+           -p 4369:4369   \
+           -e EMQX_LOADED_PLUGINS="emqx_recon,emqx_retainer,emqx_management,emqx_dashboard" \
+           emqx/emqx:4.3.2
 ```
 
-- dashboard: http://localhost:18083/#/login
+
+|Protocol  | Port  |
+|--|--|
+| mqtt:tcp	|	1883 |
+| http:management | 8081 |
+| mqtt:ws | 8083 | 
+| mqtt:wss |	8084 |
+|mqtt:ssl  | 8883 |
+| http:dashboard | 	18083 |
+
+
+**Dashboard**
+Link: http://localhost:18083/#/login
 ```
 USER: admin
 PASS: public
@@ -19,3 +40,4 @@ PASS: public
 ### Troubleshooting
 
 - Check ports on windows: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
+- Chrome MQTT Client: https://chrome.google.com/webstore/detail/mqttbox/kaajoficamnjijhkeomgfljpicifbkaf?hl=pt-BR
