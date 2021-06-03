@@ -14,6 +14,8 @@ USER: admin
 PASS: public
 ```
 
+![Dashboard](docs/images/mq_dashboard.PNG)
+
 ### Troubleshooting
 
 - Check ports on windows: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
