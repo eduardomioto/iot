@@ -13,3 +13,7 @@ docker run -d --name emqx -p 1883:1883 -p 8081:8081 -p 8083:8083 -p 8084:8084 -p
 USER: admin
 PASS: public
 ```
+
+### Troubleshooting
+
+- Check ports on windows: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
