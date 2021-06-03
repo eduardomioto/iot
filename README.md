@@ -1,6 +1,12 @@
 # iot
 
-### EMQ X (Server)
+## Software
+
+### MQTT - Cloud-Based
+
+Link: https://www.cloudmqtt.com/
+
+### MQTT - On-Premisse (EMQ X)
 EMQ X connects any IoT device via all major IoT communication protocols, including MQTT v5.0, CoAP/LwM2M 1.1 and even LoraWAN, over 3G/4G/5G&NB-IoT networks, and ensures security via TLS/DTLS, X.509 certificate, and diverse authentication mechanism
 
 ```
@@ -37,7 +43,25 @@ PASS: public
 
 ![Dashboard](docs/images/mq_dashboard.PNG)
 
+### Hardware 
+
+#### Módulo WiFi ESP8266 NodeMcu ESP-12
+
+O módulo Wifi ESP8266 NodeMCU é uma placa de desenvolvimento que combina o chip ESP8266, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino, utilizando a comunicação via cabo micro-usb. 
+
+Link:
+- https://www.filipeflop.com/produto/modulo-wifi-esp8266-nodemcu-esp-12/
+- https://produto.mercadolivre.com.br/MLB-1211973537-esp8266-nodemcu-v3-esp12-wifi-80211-bgn-arduino-lua-_JM#position=1&search_layout=grid&type=item&tracking_id=774da34b-9223-4908-9ff3-0d96b602fca1
+- 
+### Arduino
+
+Link: https://www.embarcados.com.br/mqtt-dash/
+
 ### Troubleshooting
 
 - Check ports on windows: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
 - Chrome MQTT Client: https://chrome.google.com/webstore/detail/mqttbox/kaajoficamnjijhkeomgfljpicifbkaf?hl=pt-BR
+
+### References 
+
+- https://www.embarcados.com.br/temperatura-e-umidade-no-mqtt-dash-dht11/
