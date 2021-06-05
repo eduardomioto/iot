@@ -57,6 +57,12 @@ Link:
 
 Link: https://www.embarcados.com.br/mqtt-dash/
 
+#### Testing
+
+- library.io: https://library.io/
+- tinkercad: https://www.tinkercad.com/dashboard?type=circuits&collection=designs
+- circuito.io: https://www.circuito.io/app
+
 ### Troubleshooting
 
 - Check ports on windows: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
