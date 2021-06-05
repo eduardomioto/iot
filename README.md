@@ -57,11 +57,12 @@ Link:
 
 Link: https://www.embarcados.com.br/mqtt-dash/
 
-#### Testing
+#### Testing and Learning
 
 - library.io: https://library.io/
 - tinkercad: https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 - circuito.io: https://www.circuito.io/app
+- fritzing: https://fritzing.org/learning/
 
 ### Troubleshooting
 
