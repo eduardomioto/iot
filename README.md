@@ -59,15 +59,18 @@ Link: https://www.embarcados.com.br/mqtt-dash/
 
 #### Testing and Learning
 
-- library.io: https://library.io/
-- tinkercad: https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 - circuito.io: https://www.circuito.io/app
+- tinkercad: https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 - fritzing: https://fritzing.org/learning/
 
 ### Troubleshooting
 
 - Check ports on windows: https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview
 - Chrome MQTT Client: https://chrome.google.com/webstore/detail/mqttbox/kaajoficamnjijhkeomgfljpicifbkaf?hl=pt-BR
+
+### 3D Modeling
+
+- library.io: https://library.io/
 
 ### References 
 
