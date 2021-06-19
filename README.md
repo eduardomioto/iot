@@ -41,7 +41,8 @@ Link: https://www.embarcados.com.br/mqtt-dash/
 - https://www.embarcados.com.br/temperatura-e-umidade-no-mqtt-dash-dht11/
 - https://produto.mercadolivre.com.br/MLB-1345351458-display-oled-128x64-096-i2c-grafico-arduino-azul-e-amarelo-_JM#position=1&search_layout=grid&type=item&tracking_id=509bb6b2-eca7-40bd-8f61-dff2cdb811ad
 - learning with fritzing: https://fritzing.org/learning/
-- - https://www.blogdarobotica.com/2020/07/14/monitorando-temperatura-e-umidade-pelo-celular-utilizando-a-plataforma-blynk/
+- https://www.blogdarobotica.com/2020/07/14/monitorando-temperatura-e-umidade-pelo-celular-utilizando-a-plataforma-blynk/
+- https://create.arduino.cc/projecthub/Ninety99/small-covid-medi-kit-spo2-heart-rate-ecg-with-matlab-1d9a12?ref=platform&ref_id=424_trending_part__&offset=0
 
 ### Social 
 
