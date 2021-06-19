@@ -40,6 +40,7 @@ A primeira geração do NodeMCU está desatualizada e a mesma possui um ESP-12. 
 ### Instruções
 
 - https://www.filipeflop.com/blog/programar-nodemcu-com-ide-arduino/
+- https://www.blogdarobotica.com/2020/05/28/como-programar-a-placa-nodemcu-esp8266-no-arduino-ide/
 - https://blogmasterwalkershop.com.br/embarcados/nodemcu/nodemcu-instalacao-no-windows
 - https://create.arduino.cc/projecthub/electropeak/getting-started-w-nodemcu-esp8266-on-arduino-ide-28184f
 - https://www.filipeflop.com/blog/programar-nodemcu-com-ide-arduino/
