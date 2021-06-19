@@ -37,8 +37,13 @@
 
 ## Buying
 
-- Lilypad 3.3V ATMega32U4: https://www.filipeflop.com/produto/placa-lilypad-3-3v-atmega32u4/
-- Lilytiny: https://www.filipeflop.com/produto/placa-lilytiny-lilypad/
+#### Lilypad 3.3V ATMega32U4: 
+- https://www.filipeflop.com/produto/placa-lilypad-3-3v-atmega32u4/
+- https://www.silvatronics.com.br/pd-499d92-arduino-lilypad.html?ct=16bb33&p=1&s=1
+
+#### Lilytiny
+- https://www.filipeflop.com/produto/placa-lilytiny-lilypad/
+- https://www.silvatronics.com.br/pd-50a2fb-arduino-lilipad-lilytiny.html?ct=16bb33&p=1&s=1
 - Linha Condutiva: https://www.filipeflop.com/produto/linha-condutiva-wearable-1m/
 
 ### References
