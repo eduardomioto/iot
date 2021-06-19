@@ -3,10 +3,10 @@
 ### LilyPad Board
 
 - Lilypad 3.3V ATMega32U4
-![Dashboard](docs/images/lilypad.png)
+![Dashboard](docs/images/lilypad.jpeg)
 
 - Lilytiny
-![Dashboard](docs/images/lilytiny.png)
+![Dashboard](docs/images/lilytiny.jpg)
 
 ## Buying
 
