@@ -44,7 +44,9 @@
 #### Lilytiny
 - https://www.filipeflop.com/produto/placa-lilytiny-lilypad/
 - https://www.silvatronics.com.br/pd-50a2fb-arduino-lilipad-lilytiny.html?ct=16bb33&p=1&s=1
-- Linha Condutiva: https://www.filipeflop.com/produto/linha-condutiva-wearable-1m/
+
+#### Linha Condutiva
+- https://www.filipeflop.com/produto/linha-condutiva-wearable-1m/
 
 ### References
 - https://www.filipeflop.com/blog/sketchs-na-lilytiny-com-arduino-uno/
