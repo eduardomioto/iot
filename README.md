@@ -9,7 +9,7 @@
 #### Módulo WiFi ESP8266 NodeMcu ESP-12
 
 - https://github.com/eduardomioto/iot/blob/main/nodemcu.md
-- 
+
 ### Arduino
 
 Link: https://www.embarcados.com.br/mqtt-dash/
@@ -44,3 +44,6 @@ Link: https://www.embarcados.com.br/mqtt-dash/
 - https://www.instructables.com/
 - https://www.hackster.io/
 - Per Platform: https://www.hackster.io/channels/platforms?ref=topnav
+
+### Platforms
+- https://blynk.io/
