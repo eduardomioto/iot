@@ -43,4 +43,4 @@ Link: https://www.embarcados.com.br/mqtt-dash/
 
 - https://www.instructables.com/
 - https://www.hackster.io/
-- Per Hardware Platform: https://www.hackster.io/channels/platforms?ref=topnav
+- Per Platform: https://www.hackster.io/channels/platforms?ref=topnav
