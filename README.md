@@ -2,7 +2,7 @@
 
 ## Protocols
 
-![protocols](docs/images/protocols.PNG)
+![protocols](docs/images/protocols.jpg)
 
 - https://github.com/eduardomioto/iot/blob/main/mqtt.md
 - https://www.filipeflop.com/blog/conheca-os-principais-protocolos-para-iot/
@@ -50,4 +50,8 @@ Link: https://www.embarcados.com.br/mqtt-dash/
 
 ### Platforms
 - https://blynk.io/
+
+
 - https://thingspeak.com/
+
+![thingspeak](docs/images/thingspeak.PNG)
