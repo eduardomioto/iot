@@ -47,3 +47,4 @@ Link: https://www.embarcados.com.br/mqtt-dash/
 
 ### Platforms
 - https://blynk.io/
+- https://thingspeak.com/
