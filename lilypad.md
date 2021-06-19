@@ -5,17 +5,17 @@
 ####  Lilypad 3.3V ATMega32U4
 ![Dashboard](docs/images/lilypad.jpeg)
 
-– Modelo: Lilypad 3.3V
-– Microcontrolador ATMega32U4
-– Clock: 8MHz
-– Tensão de Operação: 3.8V à 5V
-– Nível de sinal nos pinos: 3.3V
-– Pinos de I/O: 9 (4 podem ser usados como PWM e 4 como entrada analógica)
-– Corrente por pino: 40mA
-– Memória Flash: 32K
-– SRAM: 2,5KB
-– EEPROM: 1K
-– Dimensões: 50 x 7mm
+- Modelo: Lilypad 3.3V
+- Microcontrolador ATMega32U4
+- Clock: 8MHz
+- Tensão de Operação: 3.8V à 5V
+- Nível de sinal nos pinos: 3.3V
+- Pinos de I/O: 9 (4 podem ser usados como PWM e 4 como entrada analógica)
+- Corrente por pino: 40mA
+- Memória Flash: 32K
+- SRAM: 2,5KB
+- EEPROM: 1K
+- Dimensões: 50 x 7mm
 
 #### Lilytiny
 ![Dashboard](docs/images/lilytiny.jpg)
