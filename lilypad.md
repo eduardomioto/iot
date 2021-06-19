@@ -50,3 +50,4 @@
 
 ### References
 - https://www.filipeflop.com/blog/sketchs-na-lilytiny-com-arduino-uno/
+- https://www.filipeflop.com/blog/conheca-a-lilypad-usb/
