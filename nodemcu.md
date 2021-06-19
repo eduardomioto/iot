@@ -1,5 +1,13 @@
 # iot - NodeMCU
 
+#### Módulo WiFi ESP8266 NodeMcu ESP-12
+
+O módulo Wifi ESP8266 NodeMCU é uma placa de desenvolvimento que combina o chip ESP8266, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino, utilizando a comunicação via cabo micro-usb. 
+
+Link:
+- https://www.filipeflop.com/produto/modulo-wifi-esp8266-nodemcu-esp-12/
+- https://produto.mercadolivre.com.br/MLB-1211973537-esp8266-nodemcu-v3-esp12-wifi-80211-bgn-arduino-lua-_JM#position=1&search_layout=grid&type=item&tracking_id=774da34b-9223-4908-9ff3-0d96b602fca1
+
 ### Node MCU Board
 
 - V3
