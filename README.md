@@ -38,3 +38,9 @@ Link: https://www.embarcados.com.br/mqtt-dash/
 - https://www.embarcados.com.br/temperatura-e-umidade-no-mqtt-dash-dht11/
 - https://produto.mercadolivre.com.br/MLB-1345351458-display-oled-128x64-096-i2c-grafico-arduino-azul-e-amarelo-_JM#position=1&search_layout=grid&type=item&tracking_id=509bb6b2-eca7-40bd-8f61-dff2cdb811ad
 - learning with fritzing: https://fritzing.org/learning/
+
+### Social 
+
+- https://www.instructables.com/
+- https://www.hackster.io/
+- Per Hardware Platform: https://www.hackster.io/channels/platforms?ref=topnav
