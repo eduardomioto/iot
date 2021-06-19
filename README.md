@@ -53,5 +53,5 @@ Link: https://www.embarcados.com.br/mqtt-dash/
 
 
 - https://thingspeak.com/
-
+- Public (example): https://thingspeak.com/channels/1421072
 ![thingspeak](docs/images/thingspeak.PNG)
