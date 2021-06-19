@@ -2,7 +2,10 @@
 
 ## Protocols
 
+![protocols](docs/images/protocols.PNG)
+
 - https://github.com/eduardomioto/iot/blob/main/mqtt.md
+- https://www.filipeflop.com/blog/conheca-os-principais-protocolos-para-iot/
 
 ### Hardware 
 
