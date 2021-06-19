@@ -46,6 +46,7 @@ A primeira geração do NodeMCU está desatualizada e a mesma possui um ESP-12. 
 - https://www.filipeflop.com/blog/programar-nodemcu-com-ide-arduino/
 - https://mechatronicsblog.com/basic-esp8266-nodemcu-tutorial-breadboard-pinout-and-dimmable-led-with-pulse-width-modulation-pwm/
 - https://examples.blynk.cc/?board=NodeMCU&shield=ESP8266%20WiFi&example=More%2FDHT11&auth=VDqYiDZfT_8jxkdTTG29A4oYrBTciQIp
+- https://www.filipeflop.com/blog/robo-iot-com-esp8266-nodemcu/
 
 ### Referencias
 - https://blogmasterwalkershop.com.br/embarcados/nodemcu/nodemcu-uma-plataforma-com-caracteristicas-singulares-para-o-seu-projeto-iot
