@@ -7,4 +7,5 @@ No caso dos motores DC, a “velocidade de giro” (RPM) pode ser controlada var
 Em resumo: o sinal de PWM, devidamente amplificado, pode ser usado para controlar o RPM de um motor DC.
 
 ### References
-https://www.filipeflop.com/blog/controle-motor-dc-pwm-arduino-uno/
+- https://www.filipeflop.com/blog/controle-motor-dc-pwm-arduino-uno/
+- https://flaviobabos.com.br/pwm-arduino/
